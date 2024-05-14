@@ -1,4 +1,4 @@
-# Vercel Functions Database Latency
+# Vercel Functions Database Latency FOO
 
 This demo helps observe the latency characteristics of querying different popular data services from [Vercel Functions](https://vercel.com/docs/functions).
 
